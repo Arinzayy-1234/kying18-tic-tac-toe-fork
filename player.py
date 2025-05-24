@@ -92,3 +92,4 @@ class SmartComputerPlayer(Player):
                     best = sim_score
         return best
         # 1st actual changes
+   ## yADA
