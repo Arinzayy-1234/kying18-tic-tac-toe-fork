@@ -91,3 +91,4 @@ class SmartComputerPlayer(Player):
                 if sim_score['score'] < best['score']:
                     best = sim_score
         return best
+        # 1st actual changes
