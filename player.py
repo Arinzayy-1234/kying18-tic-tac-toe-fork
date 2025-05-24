@@ -93,3 +93,4 @@ class SmartComputerPlayer(Player):
         return best
         # 1st actual changes
    ## yADA
+   ## 3rd commit let's see
